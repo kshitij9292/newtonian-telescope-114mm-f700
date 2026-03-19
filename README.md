@@ -9,7 +9,7 @@ Featured Component: Non-Rotating Helical Focuser
     Note: dont need to print (02_Focuser_Base.stl) I have modified & intergrated into 3d print
 
 
-🌌 Optical Specifications
+Optical Specifications
 Feature	Details
 Aperture (D)	114mm
 Focal Length (f)	700mm
@@ -40,7 +40,7 @@ Focuser Diameter	1.25" Standard
 
     Threaded Inserts: M4 and M8 brass inserts (Recommended for structural longevity).
 
-🖨️ Printing Guidelines
+Printing Guidelines
 
     Material: PETG, ASA, or ABS.
 
@@ -50,13 +50,13 @@ Focuser Diameter	1.25" Standard
 
     Wall Loops: 4 minimum (Ensures strength for threaded inserts).
 
-🔧 Assembly & Collimation
+Assembly & Collimation
 
     Insert Hardware: Heat-set the brass inserts into the printed parts carefully to ensure they are flush and straight.
 
     Primary Cell: Mount the 114mm mirror into the cell using the printed clips.
 
-        Pro-Tip: Do not overtighten the clips; "pinching" the mirror causes astigmatism in your views.
+        Do not overtighten the clips; "pinching" the mirror causes astigmatism in your views.
 
     Collimation: Adjust the three M8 screws on the primary cell until the reflection of the secondary mirror is perfectly centered in your sightline.
         Adjust the secondary mirror tilt via the spider hub.
