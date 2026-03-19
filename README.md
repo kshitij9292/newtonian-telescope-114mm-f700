@@ -21,7 +21,8 @@ Aperture (D)	114mm
 Focal Length (f)	700mm
 Focal Ratio	f/6.14
 Focuser Diameter	1.25" Standard
-🛠️ Bill of Materials (BOM)
+
+Bill of Materials (BOM)
 1. Optics
 
     Primary Mirror: 114mm diameter, 700mm focal length.
