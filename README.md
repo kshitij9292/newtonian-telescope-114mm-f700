@@ -1,7 +1,7 @@
 114mm Newtonian Telescope
 
 Featured Component: 1.Non-Rotating Helical Focuser
-
+https://www.printables.com/model/265768-non-rotating-helical-focuser-with-collet-for-hadle
     Design by: @ballanux
 
      Non-rotating helical focuser with collet for Hadley
